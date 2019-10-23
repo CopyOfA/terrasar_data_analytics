@@ -1,0 +1,16 @@
+CREATE TABLE nce14.terrasar_hs(
+    pid VARCHAR (75) PRIMARY KEY,
+    name VARCHAR(50),
+    position geometry,
+    coords geometry,
+    dttm TIMESTAMP,
+    description jsonb);
+    
+    
+CREATE TABLE nce14.terrasar_st(
+    pid VARCHAR(75) PRIMARY KEY,
+    name VARCHAR(50),
+    position geometry,
+    coords geometry,
+    dttm TIMESTAMP,
+    description jsonb);
