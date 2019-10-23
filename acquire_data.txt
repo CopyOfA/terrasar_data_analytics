@@ -1,0 +1,3 @@
+wget https://terrasar-x-archive.terrasar.com/download/terrasarxarchive_hs.kmz?r=305684
+
+wget https://terrasar-x-archive.terrasar.com/download/terrasarxarchive_st.kmz?r=229079
